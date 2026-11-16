@@ -5,7 +5,6 @@ Multi-class classification of user comments into 4 categories, built for the **I
 **Result:** a soft-voting ensemble of Logistic Regression, XGBoost and Linear SVM reached **0.819 macro F1** on validation and **0.816 macro F1** on the Kaggle leaderboard.
 
 📓 **Notebook:** [`comment_category_prediction.ipynb`](comment_category_prediction.ipynb)
-
 ---
 
 ## Problem
